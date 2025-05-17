@@ -9,5 +9,5 @@ ul, ol {
     display: flex;
     flex-wrap: wrap;
     gap: 24px;
-    justify-content: center;
+    margin: 0 auto;
 }
